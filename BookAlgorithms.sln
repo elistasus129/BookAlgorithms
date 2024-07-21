@@ -5,6 +5,12 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İkisayitoplami", "İkisayitoplami\İkisayitoplami.csproj", "{E8301489-9CC5-4D76-8D0C-39C024044A56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iki sayının kareleri", "iki sayının kareleri\iki sayının kareleri.csproj", "{A36B4306-2415-4D92-B0E2-0298E4E4B98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4sayılarının küpleri", "4sayılarının küpleri\4sayılarının küpleri.csproj", "{D154D26F-88B3-4861-A44D-1E5B627E50E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Doğum tarihi girilen kişinin yaşını hesaplayan program", "5Doğum tarihi girilen kişinin yaşını hesaplayan program\5Doğum tarihi girilen kişinin yaşını hesaplayan program.csproj", "{2D1F6396-E3BF-4FA4-8DE8-6AC68A92B2D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{E8301489-9CC5-4D76-8D0C-39C024044A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8301489-9CC5-4D76-8D0C-39C024044A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8301489-9CC5-4D76-8D0C-39C024044A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36B4306-2415-4D92-B0E2-0298E4E4B98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36B4306-2415-4D92-B0E2-0298E4E4B98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36B4306-2415-4D92-B0E2-0298E4E4B98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36B4306-2415-4D92-B0E2-0298E4E4B98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D154D26F-88B3-4861-A44D-1E5B627E50E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D154D26F-88B3-4861-A44D-1E5B627E50E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D154D26F-88B3-4861-A44D-1E5B627E50E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D154D26F-88B3-4861-A44D-1E5B627E50E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1F6396-E3BF-4FA4-8DE8-6AC68A92B2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1F6396-E3BF-4FA4-8DE8-6AC68A92B2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1F6396-E3BF-4FA4-8DE8-6AC68A92B2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1F6396-E3BF-4FA4-8DE8-6AC68A92B2D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
